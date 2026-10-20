@@ -1,0 +1,4 @@
+mer_radio_cyd/secrets.h
+build/
+*.bin
+.vscode/
